@@ -1,0 +1,30 @@
+10:01:00 From  John Doe  to  Everyone: 
+  Good morning folks
+10:01:01 From  Frank Brank  to  Everyone: 
+  add 👍🏻
+10:01:02 From  Evan Bevan  to  Everyone: 
+  add 👍
+10:01:03 From  Frank Brank  to  Everyone: 
+  add 👍
+10:01:04 From  Alice Balice  to  Everyone: 
+  add 🍪
+10:01:10 From  Alice Balice  to  Everyone: 
+  Replying to "Good morning folks" Hi John
+10:01:20 From  Jane Smith  to  Everyone: 
+  Replying to "Good morning folks" Hello there, John!
+10:01:31 From  Frank Brank  to  Everyone: 
+  add ☝️
+10:01:32 From  Evan Bevan  to  Everyone: 
+  add 💯
+10:01:33 From  Frank Brank  to  Everyone: 
+  remove ☝️
+10:02:00 From  Jack Doe  to  Everyone: 
+  Hello world, this message is longer than 20 characters!
+10:02:10 From  Diane Smith  to  Everyone: 
+  Replying to "Hello world, this me..." Hello there, Jack!
+10:03:00 From  John Doe to Open Mike(Direct Message):
+  Please mute
+10:04:06 From  Charlie Barlie (she/her)  to  Everyone: 
+  Reacted to "Good morning folks" with 👋
+10:04:07 From  Alice Balice  to  Everyone: 
+  Removed a 🍪 reaction from "Good morning folks"
