@@ -51,7 +51,7 @@ python ./cleanup-zoom-chat.py ./my-zoom-chat.txt
 python ./cleanup-zoom-chat.py ./test-zoom-chat.txt
 ```
 
-### Orginal file
+Orginal file
 
 ```
 10:01:00 From  John Doe  to  Everyone:
