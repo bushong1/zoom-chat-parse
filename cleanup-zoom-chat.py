@@ -1,9 +1,10 @@
 import re
 import unittest
+import os
 from io import StringIO
 
-# Global var to define debug
-DEBUG = False
+# Enable debug by env var
+DEBUG = os.environ.get("DEBUG", "false").lower() == "true"
 
 class Message:
     def __init__(self, timestamp, name, content):
@@ -295,7 +296,6 @@ if __name__ == "__main__":
 
     # Check if we're running tests or executing script directly
     if len(sys.argv) > 1 and sys.argv[1] == "test":
-        DEBUG = False
         unittest.main(argv=sys.argv[:1])  # Run tests
     else:
         if len(sys.argv) > 1:
